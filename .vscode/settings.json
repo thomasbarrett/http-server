@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "__locale": "c",
+        "__string": "c",
+        "stdio.h": "c",
+        "buffer.h": "c",
+        "log.h": "c",
+        "errno.h": "c",
+        "string.h": "c",
+        "in.h": "c",
+        "stdlib.h": "c",
+        "unistd.h": "c",
+        "tcp_socket.h": "c",
+        "assert.h": "c",
+        "test.h": "c",
+        "list.h": "c"
+    }
+}
